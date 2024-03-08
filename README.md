@@ -8,6 +8,7 @@ The repository is organized into sections, each containing specific templates an
 
 * **[Badge System](graphics/user-group-badges/README.md):** Tools for creating badges to identify different roles within the meetup.
 * **[Name Tag System](graphics/name-tags/README.md):** Templates for generating name tags for all event attendees.
+* **[Welcome Template](text-templates/meetup platform/welcome message/README.md):** A customizable welcome message template for new members, outlining the community's values, what to expect, and how to get involved.
 
 Each section is contained within its own directory and comes with a dedicated README file providing detailed instructions on implementation and usage.
 
