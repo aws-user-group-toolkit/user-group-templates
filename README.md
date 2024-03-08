@@ -25,3 +25,7 @@ This repository is designed to grow and evolve over time. Additional templates a
 ## Feedback and Contributions
 
 We welcome feedback and contributions from the community! If you have suggestions for new templates, improvements to existing resources, or any other ideas that could benefit AWS User Group events, please feel free to open an issue or submit a pull request. Your input is invaluable in making this repository a robust tool for all user group leaders.
+
+## Community Project Acknowledgment
+
+This document is part of a suite of resources developed under a community project initiated by the AWS Meetup Vienna, Austria. It's important to note that this project is not officially affiliated with or endorsed by Amazon Web Services (AWS). This initiative represents a grassroots effort by AWS enthusiasts and community members to share knowledge, enhance meetup experiences, and foster a supportive environment for learning and networking within the AWS ecosystem. 

@@ -39,3 +39,7 @@ For digital needs or high-quality prints, the ```src``` directory contains PNG f
 ## Feedback and Improvements
 
 Your feedback is invaluable to the evolution of the AWS User Group Badge System. Should you have suggestions, encounter issues, or want to share your experiences, please open an issue on our GitHub project page. This collaborative approach allows us to refine and enhance the system, ensuring it meets the community's needs and expectations.
+
+## Community Project Acknowledgment
+
+This document is part of a suite of resources developed under a community project initiated by the AWS Meetup Vienna, Austria. It's important to note that this project is not officially affiliated with or endorsed by Amazon Web Services (AWS). This initiative represents a grassroots effort by AWS enthusiasts and community members to share knowledge, enhance meetup experiences, and foster a supportive environment for learning and networking within the AWS ecosystem. 

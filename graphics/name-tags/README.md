@@ -39,3 +39,7 @@ Meetup.com offers a convenient feature to export the list of event attendees as 
 ## Feedback and Collaboration
 
 We are always looking to improve the AWS User Group Name Tag System. Please share your experiences, suggestions, or any compatibility issues you encounter. Open an issue on our GitHub project page for any feedback you have. This collaborative effort will help us refine and perfect the name tag system for all user group leaders and attendees.
+
+## Community Project Acknowledgment
+
+This document is part of a suite of resources developed under a community project initiated by the AWS Meetup Vienna, Austria. It's important to note that this project is not officially affiliated with or endorsed by Amazon Web Services (AWS). This initiative represents a grassroots effort by AWS enthusiasts and community members to share knowledge, enhance meetup experiences, and foster a supportive environment for learning and networking within the AWS ecosystem. 
