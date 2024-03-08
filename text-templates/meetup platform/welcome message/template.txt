@@ -1,0 +1,32 @@
+Welcome to the Community,
+
+We're thrilled to have you join us at the AWS Meetup ###ADD YOUR MEETUP LOCATION###! As a community of AWS enthusiasts, we're here to explore the vast world of Amazon Web Services, share knowledge, and connect with fellow cloud computing aficionados in ###ADD YOUR MEETUP LOCATION### and beyond.
+
+Before You Get Started:
+
+Please take a moment to review our Code of Conduct available at ###INSERT LINK TO YOUR CODE OF CONDUCT###. By joining our group and participating in our events, you agree to adhere to these guidelines. Our Code of Conduct is designed to ensure a welcoming and respectful environment for all members, and we take it very seriously.
+
+What to Expect:
+
+Meetups & Events: Regular sessions featuring speakers, hands-on workshops, and opportunities to network with peers.
+
+Community Support: Access to a community of AWS users eager to share their experiences and insights.
+
+Resources & Learning: Stay updated with the latest AWS trends, best practices, and resources.
+
+Calling All Speakers:
+
+Have an AWS experience, a project, or insights you're eager to share? We're always looking for speakers to enrich our meetups. Register your talk at ###INSERT LINK TO SESSIONIZE OR A GOOGLE FORM### and contribute to our community.
+
+Stay Connected:
+
+Keep an eye on our Meetup page for the latest event updates and announcements. Engage with fellow members in discussions, share your thoughts, and don't hesitate to ask questions.
+
+Get Involved:
+
+Your participation is what makes our community thrive. Whether you're an experienced AWS professional or just starting, we welcome your ideas for future meetups, topics, or speakers. Feel free to reach out with your suggestions.
+
+We're excited to have you with us and look forward to your contributions to the AWS Meetup ###ADD YOUR MEETUP LOCATION###. Together, let's dive deep into the world of cloud computing and make our community a cornerstone for AWS learning and networking.
+
+Warm regards,
+The AWS Meetup ###ADD YOUR MEETUP LOCATION### Team
