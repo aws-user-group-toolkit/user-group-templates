@@ -8,25 +8,17 @@ We've developed four badge types to identify roles within our user group. Each p
 
 ### User Group Leader
 
-![User Group Leader](./src/2.png | width=100)
-
 Leaders organize events, handle logistics, and ensure a welcoming and safe environment for all participants. Your badge signifies authority and approachability, making you the go-to person for questions, concerns, or if attendees feel unsafe.
 
 ### User Group Speaker
-
-![User Group Leader](./src/3.png | width=100)
 
 Speakers share their expertise on AWS-related topics. Encourage speakers to wear their badges prominently, making it easy for attendees to identify them for discussions about their talks.
 
 ### User Group Host
 
-![User Group Leader](./src/4.png | width=100)
-
 Hosts are vital for providing the space and often food for our meetups. Their badge highlights the contribution of the hosting company and opens the door for attendees interested in learning more about the host's services or expressing gratitude.
 
 ### User Group First-Timer
-
-![User Group Leader](./src/1.png | width=100)
 
 First-timers are attending our meetup for the first time. Their badge is an invitation for existing members to welcome them and for leaders to ensure they have a great first experience.
 
