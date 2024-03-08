@@ -6,18 +6,18 @@ This guide provides step-by-step instructions for AWS User Group leaders to cust
 
 ### Adding Your Meetup Location
 
-**Placeholder:** ###ADD YOUR MEETUP LOCATION###
-**Action Required:** Replace this placeholder with the name of your city or region where your AWS Meetup group is located. Make sure to do this in all instances where the placeholder appears.
+* **Placeholder:** ###ADD YOUR MEETUP LOCATION###
+* **Action Required:** Replace this placeholder with the name of your city or region where your AWS Meetup group is located. Make sure to do this in all instances where the placeholder appears.
 
 ### Inserting Link to Your Code of Conduct
 
-**Placeholder:** ###INSERT LINK TO YOUR CODE OF CONDUCT###
-**Action Required:** Provide a hyperlink to your group's Code of Conduct. This document should be easily accessible and provide clear guidelines for behavior within your community.
+* **Placeholder:** ###INSERT LINK TO YOUR CODE OF CONDUCT###
+* **Action Required:** Provide a hyperlink to your group's Code of Conduct. This document should be easily accessible and provide clear guidelines for behavior within your community.
 
 ### Registering Talks
 
-**Placeholder:** ###INSERT LINK TO SESSIONIZE OR A GOOGLE FORM###
-**Action Required:** If you're using a platform like Sessionize or a Google Form for talk submissions, insert the direct link where speakers can register their talks. Ensure that the process is straightforward for potential speakers.
+* **Placeholder:** ###INSERT LINK TO SESSIONIZE OR A GOOGLE FORM###
+* **Action Required:** If you're using a platform like Sessionize or a Google Form for talk submissions, insert the direct link where speakers can register their talks. Ensure that the process is straightforward for potential speakers.
 
 ## Feedback and Contributions
 
